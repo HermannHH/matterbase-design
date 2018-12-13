@@ -1,0 +1,84 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E419D169-5346-4D27-9363-3FF277B824E7",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "B8278767-204E-4BD1-9525-7377A50B8F2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78093639-FF79-4716-AF81-3F4AFC78E05F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4A18F0C-BCEC-43F6-8B4B-79EBA449D41E",
+    "height": 100,
+    "width": 100,
+    "x": -183,
+    "y": 236
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "19C4D0F9-876B-460E-A183-3CADC1B03C73",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BAB23D9D-54FA-4EDD-B971-41AE6065EA46"
+    }
+  ],
+  "name": "Dodger Blue",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AEFDC0E1-7C84-4F48-8ABD-64DCE345BB6C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F833ACB6-8A2F-4774-A8CA-D97930F8A294",
+    "guides": [
+    ]
+  }
+}

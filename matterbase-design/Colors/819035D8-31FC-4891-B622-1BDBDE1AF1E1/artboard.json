@@ -1,0 +1,84 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C8833A35-8BC4-4D29-9DB5-095E7C83A43D",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "819035D8-31FC-4891-B622-1BDBDE1AF1E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5AB5762-BAF1-4DA6-A032-13F65B63BF6A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C920E9D-2C68-45E2-B806-64DF32FF36DF",
+    "height": 100,
+    "width": 100,
+    "x": 657,
+    "y": 236
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E1BD9745-D5F1-444A-8C6B-21933C1A55A9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F29FD716-9EAA-4CE0-A567-EB4081F51554"
+    }
+  ],
+  "name": "Rose Fog",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6DBB2E82-F0F1-40C6-8DD7-57F3D10A6C02",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8341B61A-17AE-4AEF-BCF7-177124AB48BA",
+    "guides": [
+    ]
+  }
+}

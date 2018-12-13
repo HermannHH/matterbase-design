@@ -1,0 +1,84 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C9429016-32C2-43FC-8189-D61A70CC2969",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "488583AC-8B26-46E7-B481-C7407E7EB54B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9ED7712-A742-4FAD-B434-A31C25787002",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0EF925C1-5238-424C-A818-9830F686DB43",
+    "height": 100,
+    "width": 100,
+    "x": 897,
+    "y": 121
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1A8AB5EC-0599-4A5E-93F6-383093DD83E0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0A3111F0-5C0B-4897-9B3B-235886045CA5"
+    }
+  ],
+  "name": "Snow Grey",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6B828D3-ECB1-460A-92AE-5D359CF33BA4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7A9D4928-67ED-4CA0-A834-8D281B08FF2C",
+    "guides": [
+    ]
+  }
+}
