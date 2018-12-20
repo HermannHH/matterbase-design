@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "F1EB9A94-4C06-4EA3-8F93-EAF0534FDE05",
+  "name": "Colors > Rose Fog Style",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6901960784313725,
+          "green": 0.6862745098039216,
+          "red": 0.8901960784313725
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "F1EB9A94-4C06-4EA3-8F93-EAF0534FDE05",
+    "startDecorationType": 0
+  }
+}

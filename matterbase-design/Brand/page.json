@@ -32,6 +32,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "F4BF71E4-6177-4AB6-9C04-65196BE0AEC2"
+    }
   ],
   "name": "Brand",
   "nameIsFixed": true,

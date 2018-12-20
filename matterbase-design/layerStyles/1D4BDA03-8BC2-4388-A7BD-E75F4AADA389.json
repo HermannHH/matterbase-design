@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "1D4BDA03-8BC2-4388-A7BD-E75F4AADA389",
+  "name": "Colors > Tall Poppy Style",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1725490196078431,
+          "green": 0.2549019607843137,
+          "red": 0.7372549019607844
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "1D4BDA03-8BC2-4388-A7BD-E75F4AADA389",
+    "startDecorationType": 0
+  }
+}

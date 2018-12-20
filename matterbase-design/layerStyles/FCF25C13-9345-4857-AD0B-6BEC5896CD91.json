@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "FCF25C13-9345-4857-AD0B-6BEC5896CD91",
+  "name": "Colors > Portage Style",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9411764705882353,
+          "green": 0.3764705882352941,
+          "red": 0.5803921568627451
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "FCF25C13-9345-4857-AD0B-6BEC5896CD91",
+    "startDecorationType": 0
+  }
+}
