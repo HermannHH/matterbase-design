@@ -1,10 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "4D70A772-16AE-4657-BE9F-CF6DBB9C9F10",
+  "do_objectID": "29B6EE61-CAAD-49B0-BCBB-DB9B01E8E0C1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F871030D-2D56-4A21-A2BE-80E06DFA960F",
+    "do_objectID": "45506DBC-D149-49C0-AAEC-8AEBEE9FEAA1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F129CA63-7C4A-4DBE-8163-44C95B6BC4AB",
-    "height": 40,
-    "width": 717,
+    "do_objectID": "67F49CF0-CE4F-4960-BBCF-8416F4ADF5EE",
+    "height": 399,
+    "width": 375,
     "x": 0,
-    "y": 0
+    "y": 70
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,14 +27,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "BB90D67B-8FA1-453E-BC5F-30488F2795AF"
+      "id": "B2A494E8-DBFC-4098-9313-0BD411BA99CA"
     }
   ],
-  "name": "Rectangle 2",
+  "name": "Rectangle 4",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,17 +48,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.8941176470588235,
+          "green": 0.8980392156862745,
+          "red": 0.9019607843137255
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
         "thickness": 1
       }
     ],
-    "do_objectID": "DB723C4B-AB5E-4D21-8AD6-8CDF5E0373EC",
+    "do_objectID": "00F95431-7283-483D-96A0-60336FCEDEC5",
     "endDecorationType": 0,
     "fills": [
       {
@@ -66,12 +66,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9333333333333335,
-          "green": 0,
-          "red": 0.996078431372549
+          "blue": 0.8941176470588235,
+          "green": 0.8980392156862745,
+          "red": 0.9019607843137255
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

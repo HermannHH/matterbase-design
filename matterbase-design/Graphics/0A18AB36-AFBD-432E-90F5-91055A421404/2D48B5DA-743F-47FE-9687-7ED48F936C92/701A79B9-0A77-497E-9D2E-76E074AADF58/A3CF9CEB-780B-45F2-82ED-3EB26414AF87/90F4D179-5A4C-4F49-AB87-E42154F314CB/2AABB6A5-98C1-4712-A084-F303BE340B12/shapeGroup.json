@@ -1,10 +1,9 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "6C4BD188-977D-4E65-8356-A97A3AEF9F1E",
+  "do_objectID": "2AABB6A5-98C1-4712-A084-F303BE340B12",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "06863037-8B7F-4C50-B6B4-AB298ECDE4E5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BFB08322-FD10-4991-A2B7-4A1C2F396EB3",
-    "height": 881,
-    "width": 804,
-    "x": 0,
-    "y": 0
+    "height": 399,
+    "width": 375,
+    "x": 443,
+    "y": 70
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,14 +25,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
-      "id": "A1DA35E4-3AAF-4B2B-973C-549DC300288F"
+      "id": "1A5A77FA-04C1-4615-AF94-84CF8A6B65EE"
     }
   ],
-  "name": "Rectangle",
+  "name": "Rectangle 4",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -58,7 +56,6 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "B291244D-E9D1-4ECA-8A39-F3AACF343CE0",
     "endDecorationType": 0,
     "fills": [
       {
@@ -66,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.9882352941176471,
+          "green": 0.9607843137254902,
+          "red": 0.9254901960784314
         },
         "fillType": 0,
         "isEnabled": true,
@@ -79,28 +76,6 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 4,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 2,
-        "spread": 0
-      }
-    ],
     "startDecorationType": 0
   },
   "windingRule": 1

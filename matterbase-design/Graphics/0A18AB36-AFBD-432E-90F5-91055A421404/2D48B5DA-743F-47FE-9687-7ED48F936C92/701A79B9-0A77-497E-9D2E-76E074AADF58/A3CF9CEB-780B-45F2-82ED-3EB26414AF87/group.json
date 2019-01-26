@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "399C366D-344C-4738-B4D5-C79981B24D46",
+  "do_objectID": "A3CF9CEB-780B-45F2-82ED-3EB26414AF87",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 23,
-    "width": 331,
-    "x": 28,
-    "y": 110
+    "height": 881,
+    "width": 804,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -26,24 +26,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "5CA4D58B-6B98-4EDD-A42C-BE1744450E23"
+      "class": "shapeGroup",
+      "id": "6C4BD188-977D-4E65-8356-A97A3AEF9F1E"
     },
     {
-      "class": "text",
-      "id": "3F29BEFE-B37D-46E3-AD39-A3393AB37C3B"
-    },
-    {
-      "class": "text",
-      "id": "266DEEAC-7E52-4F74-81A4-D2B162F81991"
-    },
-    {
-      "class": "text",
-      "id": "BB9B7B5E-D27E-4041-AEBE-EC0B09633C12"
+      "class": "group",
+      "id": "90F4D179-5A4C-4F49-AB87-E42154F314CB"
     }
   ],
-  "name": "times",
-  "nameIsFixed": true,
+  "name": "Rectangle 4",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
