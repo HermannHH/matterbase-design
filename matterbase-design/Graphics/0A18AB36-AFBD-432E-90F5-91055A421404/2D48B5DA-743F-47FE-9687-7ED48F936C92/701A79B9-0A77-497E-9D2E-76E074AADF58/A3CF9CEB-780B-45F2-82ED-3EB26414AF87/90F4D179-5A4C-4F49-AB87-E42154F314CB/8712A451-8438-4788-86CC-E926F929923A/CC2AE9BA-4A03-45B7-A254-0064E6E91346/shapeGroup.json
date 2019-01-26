@@ -1,10 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "1FE57DE4-775D-4A75-A54A-1522A347DEFC",
+  "do_objectID": "CC2AE9BA-4A03-45B7-A254-0064E6E91346",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6322A6EE-3EEA-473D-962D-4F1157D28ADC",
+    "do_objectID": "BC588937-E136-4B93-98CF-1DDD24FDDDDB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4BDA7965-60B8-478C-BE49-1A8409E012E4",
-    "height": 24,
-    "width": 276,
-    "x": 4,
+    "do_objectID": "878787CC-ABFD-4081-833C-D756EC7E7412",
+    "height": 399,
+    "width": 375,
+    "x": 0,
     "y": 0
   },
   "hasClickThrough": false,
@@ -27,14 +27,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "F36253D7-9F75-409B-A484-1E769CA1704E"
+      "id": "478ECA18-045E-47B9-AB82-80921384331D"
     }
   ],
-  "name": "Rectangle 3",
+  "name": "Rectangle 4",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,17 +48,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.8941176470588235,
+          "green": 0.8980392156862745,
+          "red": 0.9019607843137255
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
         "thickness": 1
       }
     ],
-    "do_objectID": "2AC64230-2013-4DB5-B5A1-A6BEAD27A07C",
+    "do_objectID": "8639EFD0-3912-4E62-8CD1-A4C092AFA350",
     "endDecorationType": 0,
     "fills": [
       {
@@ -71,7 +71,7 @@
           "red": 0.9019607843137255
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

@@ -60,16 +60,20 @@
       "id": "29DCCD7C-91C2-4A7D-892A-35B5461839A6"
     },
     {
-      "class": "shapeGroup",
-      "id": "394C7441-2A12-40F2-A98C-7D4DD947CDB0"
-    },
-    {
       "class": "group",
       "id": "2D48B5DA-743F-47FE-9687-7ED48F936C92"
     },
     {
+      "class": "shapeGroup",
+      "id": "394C7441-2A12-40F2-A98C-7D4DD947CDB0"
+    },
+    {
       "class": "text",
       "id": "CB761F5B-E875-441C-B76B-48CC8A250357"
+    },
+    {
+      "class": "text",
+      "id": "5004F6EC-83A7-4171-BFF4-4BA5B5678709"
     }
   ],
   "name": "main-above-the-fold-graphic",

@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "DEA1CC76-E175-4B39-9959-819022B877B5",
+  "do_objectID": "8712A451-8438-4788-86CC-E926F929923A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 224,
-    "width": 718,
-    "x": 37,
-    "y": 162
+    "height": 399,
+    "width": 409,
+    "x": 0,
+    "y": 594
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -26,15 +26,27 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "A1B24367-F548-4B57-A2A7-05B0325EDBDC"
+      "class": "shapeGroup",
+      "id": "CC2AE9BA-4A03-45B7-A254-0064E6E91346"
     },
     {
-      "class": "shapeGroup",
-      "id": "8D59D52F-15C2-425A-B543-C61C702FB72A"
+      "class": "group",
+      "id": "7532B453-788C-48A4-951F-7B199280E795"
+    },
+    {
+      "class": "group",
+      "id": "8B69969D-6C29-4B58-A676-D41D6492C62D"
+    },
+    {
+      "class": "text",
+      "id": "DB75A451-F568-401E-B748-94F2381B95CC"
+    },
+    {
+      "class": "text",
+      "id": "85504514-5A5E-4E3E-A5C2-8E4ECDC31450"
     }
   ],
-  "name": "row-with-date",
+  "name": "checklist",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,10 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "1FE57DE4-775D-4A75-A54A-1522A347DEFC",
+  "do_objectID": "A745D114-744E-4844-894D-7BD01D61B840",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6322A6EE-3EEA-473D-962D-4F1157D28ADC",
+    "do_objectID": "F066CB4C-BA0B-4A45-8868-A6B83A4A67CE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4BDA7965-60B8-478C-BE49-1A8409E012E4",
+    "do_objectID": "4A7AB8E3-EEAC-42AE-8268-DCAD37C402BE",
     "height": 24,
-    "width": 276,
-    "x": 4,
-    "y": 0
+    "width": 171,
+    "x": 21,
+    "y": 158
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -31,7 +31,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "F36253D7-9F75-409B-A484-1E769CA1704E"
+      "id": "4BCE1C29-8B06-4284-8996-9DAF48384A8F"
     }
   ],
   "name": "Rectangle 3",
@@ -58,7 +58,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "2AC64230-2013-4DB5-B5A1-A6BEAD27A07C",
+    "do_objectID": "57C8EEDC-B7B2-4E1E-A56F-D77F1E201BEA",
     "endDecorationType": 0,
     "fills": [
       {
