@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 148.8450953025109,
-    "width": 94.98951094675272,
-    "x": 266.0233057990002,
-    "y": 508.7984373679527
+    "height": 100.2828497952472,
+    "width": 58.98542212016162,
+    "x": 291.0542782725163,
+    "y": 546.6815891786857
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -82,7 +82,7 @@
         "blurRadius": 3,
         "color": {
           "_class": "color",
-          "alpha": 0.325294384057971,
+          "alpha": 0.2180706521739131,
           "blue": 0,
           "green": 0,
           "red": 0
