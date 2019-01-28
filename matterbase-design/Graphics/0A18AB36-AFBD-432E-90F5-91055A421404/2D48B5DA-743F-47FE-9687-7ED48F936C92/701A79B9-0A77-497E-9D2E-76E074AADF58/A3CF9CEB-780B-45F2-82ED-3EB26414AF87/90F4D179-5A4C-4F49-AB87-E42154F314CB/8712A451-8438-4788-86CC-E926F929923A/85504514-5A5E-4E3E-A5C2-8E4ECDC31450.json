@@ -22,8 +22,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 25,
-    "x": 26,
+    "width": 22.31051344743281,
+    "x": 23.2029339853301,
     "y": 28
   },
   "glyphBounds": "{{0, 1}, {25, 22}}",
@@ -60,5 +60,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "7532B453-788C-48A4-951F-7B199280E795",
+  "do_objectID": "716E54F6-88B9-450C-9A4E-184B4541E038",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 26,
-    "width": 215.9657701711491,
-    "x": 23.2029339853301,
-    "y": 71
+    "height": 399,
+    "width": 335,
+    "x": 396,
+    "y": 77
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,14 +27,14 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "1C3D175C-496B-47AA-A095-ED222FD6765A"
+      "id": "2AABB6A5-98C1-4712-A084-F303BE340B12"
     },
     {
-      "class": "shapeGroup",
-      "id": "8CDE0979-BCA4-4B31-BD14-96F0D83BEE23"
+      "class": "text",
+      "id": "CB761F5B-E875-441C-B76B-48CC8A250357"
     }
   ],
-  "name": "to-do-ghost",
+  "name": "add-note",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

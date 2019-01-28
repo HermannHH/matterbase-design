@@ -17,7 +17,7 @@
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 4,
         "visibleScaleType": 0
       }
     ],
@@ -66,10 +66,6 @@
     {
       "class": "shapeGroup",
       "id": "394C7441-2A12-40F2-A98C-7D4DD947CDB0"
-    },
-    {
-      "class": "text",
-      "id": "CB761F5B-E875-441C-B76B-48CC8A250357"
     },
     {
       "class": "text",
