@@ -16,7 +16,11 @@
   },
   "colorSpace": 0,
   "do_objectID": "fca40d21-ff01-11e8-bfb6-5596bb4719e1",
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -24,9 +28,9 @@
     ]
   },
   "meta": {
-    "appVersion": "49.3",
-    "build": 51167,
-    "version": 101
+    "appVersion": "52.6",
+    "build": 67491,
+    "version": 112
   },
   "pages": [
     "Colors",
