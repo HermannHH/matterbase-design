@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.00784313725490196,
-            "green": 0.00784313725490196,
-            "red": 0.00784313725490196
+            "blue": 0.007843137254901959,
+            "green": 0.007843137254901959,
+            "red": 0.007843137254901959
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -35,10 +35,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F86954B6-9902-44A7-B4C1-42BE95CBB7C6",
+  "do_objectID": "50A53F6D-2532-4A0A-9DEE-5E54304A95DA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "0B16496E-F705-427C-80BD-B80CE520E6C5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,6 +50,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "F6C39DE6-74E4-48FF-B6FE-B8FE5D73EBCB",
     "height": 236,
     "width": 1215,
     "x": 391,
@@ -71,18 +73,20 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "9B5AFBF5-D747-49DA-AC00-11EB43F4BA89",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "5A64367C-001D-4BE9-AB38-29635624BE9C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.00784313725490196,
-          "green": 0.00784313725490196,
-          "red": 0.00784313725490196
+          "blue": 0.007843137254901959,
+          "green": 0.007843137254901959,
+          "red": 0.007843137254901959
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

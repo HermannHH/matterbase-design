@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AC3860D6-E56D-4739-AE67-67C9BC6F15CC",
+  "do_objectID": "19682F34-296C-4419-87C1-E15BB71EF71F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,10 +25,10 @@
     "height": 381,
     "width": 1616,
     "x": 3924,
-    "y": -130
+    "y": 354
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -44,22 +44,22 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
-      "id": "F86954B6-9902-44A7-B4C1-42BE95CBB7C6"
+      "id": "68766A3E-AA6F-49B2-BF6E-356940F51F93"
     },
     {
       "class": "rectangle",
-      "id": "C8F6D6DC-3B5A-4E89-AF56-3B4D59C89898"
+      "id": "4F3A2BBB-04E1-4859-BCFB-9146A1383C64"
     },
     {
       "class": "group",
-      "id": "90E75B4D-70C5-4299-881F-939E5ED40B7B"
+      "id": "495FAC99-C81B-43F7-B60C-C4F73BBFC044"
     }
   ],
-  "name": "Artboard",
+  "name": "Artboard Copy",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,

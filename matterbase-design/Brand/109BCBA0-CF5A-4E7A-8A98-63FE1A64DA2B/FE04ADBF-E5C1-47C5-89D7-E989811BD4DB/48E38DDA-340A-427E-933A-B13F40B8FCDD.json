@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.00784313725490196,
-            "green": 0.00784313725490196,
-            "red": 0.00784313725490196
+            "blue": 0.007843137254901959,
+            "green": 0.007843137254901959,
+            "red": 0.007843137254901959
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -35,10 +35,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F86954B6-9902-44A7-B4C1-42BE95CBB7C6",
+  "do_objectID": "48E38DDA-340A-427E-933A-B13F40B8FCDD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "5E2D08A8-E00E-4C39-8E28-D6545B7ECB56",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,10 +50,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "6E405A50-FBA2-4FF6-B7B6-6D963E44BAEF",
     "height": 236,
     "width": 1215,
-    "x": 391,
-    "y": 52
+    "x": 420,
+    "y": 83
   },
   "glyphBounds": "{{30, 56}, {1166, 167}}",
   "hasClippingMask": false,
@@ -71,18 +73,58 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1066960170865059,
+          "green": 0.007513228338211775,
+          "red": 0.816203773021698
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 22
+      }
+    ],
+    "do_objectID": "A6C62E5C-19CC-4373-A81D-C70F8ECEC5B5",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "textStyle": {
-      "_class": "textStyle",
-      "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
           "_class": "color",
           "alpha": 1,
           "blue": 0.00784313725490196,
           "green": 0.00784313725490196,
           "red": 0.00784313725490196
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "FFB625A8-5662-4A3D-A323-6594749E75D0",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.007843137254901959,
+          "green": 0.007843137254901959,
+          "red": 0.007843137254901959
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
