@@ -51,16 +51,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "50A53F6D-2532-4A0A-9DEE-5E54304A95DA"
-    },
-    {
-      "class": "rectangle",
-      "id": "47499B7C-F3F8-4583-A91E-325CCDFE72E8"
-    },
-    {
-      "class": "group",
-      "id": "C54F4A83-11DD-44B1-865D-23032C9BF8A5"
+      "class": "symbolInstance",
+      "id": "A48CC5B4-D7FA-4260-8ACA-C722CDFAAB14"
     }
   ],
   "name": "Artboard Copy",

@@ -1,8 +1,15 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9882352941176471,
+    "green": 0.9607843137254902,
+    "red": 0.9254901960784314
+  },
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "657FB150-7C14-48CD-B161-6866C0AAB798",
+  "do_objectID": "216BA19B-A058-42FA-A4B1-80B56331F76F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,46 +22,46 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 630,
+    "width": 1200,
+    "x": 4025,
+    "y": 1085
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -239,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "artboard",
-      "id": "701E9EFC-EE93-4A5B-9E5C-9B9A11E80159"
+      "class": "symbolInstance",
+      "id": "CDEB71FC-6042-4552-AF12-68A86856C47C"
     },
     {
-      "class": "artboard",
-      "id": "0A18AB36-AFBD-432E-90F5-91055A421404"
-    },
-    {
-      "class": "artboard",
-      "id": "9E6EA3F5-794E-4AB3-ADEF-D9497B2F6146"
+      "class": "symbolInstance",
+      "id": "4DCFFB40-F91E-4F9B-847A-316E0A63A839"
     }
   ],
-  "name": "Graphics",
-  "nameIsFixed": true,
+  "name": "Artboard",
+  "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -64,7 +71,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -120,
+    "base": 0,
     "guides": [
     ]
   }

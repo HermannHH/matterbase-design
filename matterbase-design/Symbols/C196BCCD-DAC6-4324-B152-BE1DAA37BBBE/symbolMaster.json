@@ -1,8 +1,16 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 14,
   "clippingMaskMode": 0,
-  "do_objectID": "657FB150-7C14-48CD-B161-6866C0AAB798",
+  "do_objectID": "C196BCCD-DAC6-4324-B152-BE1DAA37BBBE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,46 +23,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
+    "height": 236,
+    "width": 1215,
+    "x": 2578,
     "y": 0
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -239,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "artboard",
-      "id": "701E9EFC-EE93-4A5B-9E5C-9B9A11E80159"
-    },
-    {
-      "class": "artboard",
-      "id": "0A18AB36-AFBD-432E-90F5-91055A421404"
-    },
-    {
-      "class": "artboard",
-      "id": "9E6EA3F5-794E-4AB3-ADEF-D9497B2F6146"
+      "class": "text",
+      "id": "50A53F6D-2532-4A0A-9DEE-5E54304A95DA"
     }
   ],
-  "name": "Graphics",
-  "nameIsFixed": true,
+  "name": "Logo Text",
+  "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -62,9 +67,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "B592ED76-94A6-421C-A08F-802061616D7C",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -120,
+    "base": 0,
     "guides": [
     ]
   }

@@ -39,6 +39,22 @@
     {
       "class": "symbolMaster",
       "id": "DECAE113-9027-4A2B-9539-8C4EC47A8514"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B636F783-DA4A-42A2-84D1-BAE70AA1542F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0C54EDEF-9F87-423E-AF01-B07C68CC08E8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C196BCCD-DAC6-4324-B152-BE1DAA37BBBE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1AE956C0-B155-4636-B5E8-9ACB4340FD42"
     }
   ],
   "name": "Symbols",
