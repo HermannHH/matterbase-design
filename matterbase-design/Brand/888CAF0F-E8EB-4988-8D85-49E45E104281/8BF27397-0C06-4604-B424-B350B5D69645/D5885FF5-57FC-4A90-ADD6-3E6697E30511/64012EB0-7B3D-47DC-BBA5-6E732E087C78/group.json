@@ -17,15 +17,15 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "13511401-B91F-45F5-B459-D752D3FCB95B",
-    "height": 264,
+    "height": 235,
     "width": 245,
-    "x": 188.801821562484,
-    "y": 184.9586758119764
+    "x": 192,
+    "y": 190
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
-  "isFlippedHorizontal": false,
+  "isFlippedHorizontal": true,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
@@ -48,7 +48,7 @@
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -45,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
