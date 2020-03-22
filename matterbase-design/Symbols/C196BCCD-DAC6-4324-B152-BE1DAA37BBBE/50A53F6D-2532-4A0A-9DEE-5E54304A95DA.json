@@ -14,7 +14,7 @@
             "red": 0.007843137254901959
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
               "name": "Helvetica-Bold",
               "size": 225
@@ -89,7 +89,7 @@
           "red": 0.007843137254901959
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
             "name": "Helvetica-Bold",
             "size": 225

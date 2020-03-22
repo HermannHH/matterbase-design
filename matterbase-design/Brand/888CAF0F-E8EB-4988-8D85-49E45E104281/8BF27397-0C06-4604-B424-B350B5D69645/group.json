@@ -2,14 +2,14 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FE04ADBF-E5C1-47C5-89D7-E989811BD4DB",
+  "do_objectID": "8BF27397-0C06-4604-B424-B350B5D69645",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "svg",
         "name": "",
         "namingScheme": 0,
         "scale": 2,
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 440,
-    "width": 1635,
-    "x": -29,
-    "y": -31
+    "height": 629,
+    "width": 2485,
+    "x": 5,
+    "y": 2
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -36,19 +36,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "48E38DDA-340A-427E-933A-B13F40B8FCDD"
+      "class": "group",
+      "id": "176316B4-5D65-4CA3-986C-1EE5CBAFD220"
     },
     {
       "class": "group",
-      "id": "3CD51D0A-540A-44A5-9BDA-601220652185"
+      "id": "D5885FF5-57FC-4A90-ADD6-3E6697E30511"
     }
   ],
-  "name": "Logo",
-  "nameIsFixed": true,
+  "name": "Group 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

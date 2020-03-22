@@ -14,7 +14,7 @@
             "red": 0.5254901960784314
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
               "name": "FontAwesome",
               "size": 26
@@ -80,7 +80,7 @@
           "red": 0.5254901960784314
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
             "name": "FontAwesome",
             "size": 26

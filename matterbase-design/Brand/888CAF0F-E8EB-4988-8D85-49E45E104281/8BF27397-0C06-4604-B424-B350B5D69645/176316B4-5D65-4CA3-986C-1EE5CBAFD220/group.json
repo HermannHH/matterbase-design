@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FE04ADBF-E5C1-47C5-89D7-E989811BD4DB",
+  "do_objectID": "176316B4-5D65-4CA3-986C-1EE5CBAFD220",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "19D61556-CB7F-4F44-8E5A-8F5AF3D1591C",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -24,10 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 440,
-    "width": 1635,
-    "x": -29,
-    "y": -31
+    "do_objectID": "95390B63-9A67-48C5-B710-344AD6BC5E4E",
+    "height": 372,
+    "width": 1855,
+    "x": 630,
+    "y": 129
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -36,15 +38,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
-      "id": "48E38DDA-340A-427E-933A-B13F40B8FCDD"
-    },
-    {
-      "class": "group",
-      "id": "3CD51D0A-540A-44A5-9BDA-601220652185"
+      "id": "604EBB88-1021-40DD-A81B-7FAE128CC99D"
     }
   ],
   "name": "Logo",
@@ -55,6 +53,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "7E88AE66-CD91-4DBE-8A9B-D43A31320A7C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
